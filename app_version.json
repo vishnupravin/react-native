@@ -1,0 +1,5 @@
+{
+    "android": "43",
+    "ios": "1",
+    "notes": "make sure this versions are greater then admin panel before release, after update on app/play store please update same as it is on admin panel"
+}

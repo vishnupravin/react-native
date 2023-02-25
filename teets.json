@@ -1,0 +1,115 @@
+{
+    "ingre": [],
+    "variant": [
+        {
+            "vhid": "5",
+            "heading": "Quantity",
+            "status": "1",
+            "data": []
+        },
+        {
+            "vhid": "7",
+            "heading": "Cutting Type",
+            "status": "1",
+            "data": [
+                {
+                    "id": "99",
+                    "variant_name": "Medium Cut 20g",
+                    "price": "0",
+                    "variant_head": "7",
+                    "variant_head_name": "Cutting Type",
+                    "category": "21",
+                    "menu_id": "41",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "1",
+                    "status": "1"
+                },
+                {
+                    "id": "100",
+                    "variant_name": "Big Cut 30g",
+                    "price": "0",
+                    "variant_head": "7",
+                    "variant_head_name": "Cutting Type",
+                    "category": "21",
+                    "menu_id": "41",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "0",
+                    "status": "1"
+                },
+                {
+                    "id": "101",
+                    "variant_name": "Briyani Cut 40g",
+                    "price": "0",
+                    "variant_head": "7",
+                    "variant_head_name": "Cutting Type",
+                    "category": "21",
+                    "menu_id": "41",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "0",
+                    "status": "1"
+                }
+            ]
+        },
+        {
+            "vhid": "9",
+            "heading": "Body Part",
+            "status": "1",
+            "data": [
+                {
+                    "id": "102",
+                    "variant_name": "Mixed",
+                    "price": "0",
+                    "variant_head": "9",
+                    "variant_head_name": "Body Part",
+                    "category": "21",
+                    "menu_id": "41",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "1",
+                    "status": "1"
+                },
+                {
+                    "id": "103",
+                    "variant_name": "Chest Portion",
+                    "price": "0",
+                    "variant_head": "9",
+                    "variant_head_name": "Body Part",
+                    "category": "21",
+                    "menu_id": "41",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "0",
+                    "status": "1"
+                },
+                {
+                    "id": "104",
+                    "variant_name": "Leg Portion",
+                    "price": "0",
+                    "variant_head": "9",
+                    "variant_head_name": "Body Part",
+                    "category": "21",
+                    "menu_id": "41",
+                    "branch_id": "1",
+                    "type": "0",
+                    "selection": "0",
+                    "status": "1"
+                }
+            ]
+        }
+    ],
+    "arrayvariant": [
+        {
+            "id": "99",
+            "name": "Medium Cut 20g",
+            "price": "0"
+        },
+        {
+            "id": "102",
+            "name": "Mixed",
+            "price": "0"
+        }
+    ]
+}

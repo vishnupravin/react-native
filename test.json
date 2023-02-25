@@ -1,0 +1,52 @@
+{
+    "addonsSeleted": {
+        "CheckBoxes": {
+            "id": [],
+            "name": [],
+            "price": []
+        },
+        "ingrediant": {
+            "id": [],
+            "name": [],
+            "price": []
+        },
+        "radioButton": {
+            "id": [],
+            "name": [],
+            "price": []
+        }
+    },
+    "catIndex": 0,
+    "item": {
+        "appcoupon": 0,
+        "appflat": 0,
+        "buy_coupon": 0,
+        "category": "23",
+        "coupon": null,
+        "couponprdt": 0,
+        "description": "500g Pack",
+        "discount": "0.00",
+        "dprice": "100",
+        "flat": null,
+        "flat_discount": 0,
+        "food_type": "2",
+        "id": "56",
+        "ingrecount": 1,
+        "ingres": "",
+        "ingresid": "0",
+        "menu_image": "Menuitem_1653474304.jpg",
+        "menu_name": "Curry Cut - Skinless",
+        "price": "100",
+        "qty": 0,
+        "show": "0",
+        "sqlid": 1,
+        "start": 0,
+        "status": "1",
+        "tamil_name": "",
+        "timing_state": 0,
+        "wholecat": "1"
+    },
+    "itemIndex": 0,
+    "price": 100,
+    "qty": 1
+}

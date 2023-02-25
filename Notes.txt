@@ -1,0 +1,2 @@
+addonsSeleted {"CheckBoxes": {"id": [], "name": [], "price": []}, "ingrediant": {"id": [], "name": [], "price": []}, "radioButton": {"id": ["61", "67", null], "name": ["Medium cut 20g", "mixed", null], "price": ["0", "0", 0]}}
+addonsSeleted {"CheckBoxes": {"id": ["325"], "name": ["Test variant"], "price": ["0"]}, "ingrediant": {"id": [], "name": [], "price": []}, "radioButton": {"id": [], "name": [], "price": []}}
